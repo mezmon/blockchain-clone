@@ -1,5 +1,8 @@
 {
   "name": "pdx-chain",
+  "quokka": {
+    "babel": true
+  },
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
